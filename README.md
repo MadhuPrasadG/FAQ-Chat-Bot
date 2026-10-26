@@ -1,4 +1,4 @@
-University FAQ Chatbot 🎓🤖
+# University FAQ Chatbot 🤖
 
 # Project Task:
  Develop a simple chatbot that answers frequently asked questions. (SRN: R25DG012)
@@ -9,7 +9,7 @@ This is a Machine Learning-based mini project that acts as an intelligent FAQ ch
 
 Instead of a basic terminal prompt, this project features a modern, user-friendly web interface powered by Gradio.
 
-## Features
+# Features
 * Text Preprocessing: Cleans user input by standardizing text and removing punctuation using Regular Expressions (Regex).
 * TF-IDF Vectorization: Converts text data into numerical vectors using `scikit-learn` so the computer can process the language mathematically.
 * Cosine Similarity: Calculates the mathematical distance between the user's query and the stored FAQ database to return the most accurate match.
